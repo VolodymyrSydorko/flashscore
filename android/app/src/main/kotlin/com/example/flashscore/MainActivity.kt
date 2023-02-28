@@ -1,4 +1,4 @@
-package com.example.flashscore
+package com.softonix.flashscore
 
 import io.flutter.embedding.android.FlutterActivity
 

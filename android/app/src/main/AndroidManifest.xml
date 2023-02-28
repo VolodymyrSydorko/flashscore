@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flashscore">
+    package="com.softonix.flashscore">
    <application
         android:label="flashscore"
         android:name="${applicationName}"
